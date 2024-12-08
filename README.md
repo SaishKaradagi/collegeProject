@@ -1,6 +1,6 @@
-# SGBIT College Projects
+# SGBIT College Project
 
-Welcome to the official repository for the **SGBIT College Projects**. This repository showcases two integral projects designed to enhance the digital ecosystem of **SGBIT**:
+Welcome to the official repository for the **SGBIT College Project**. This repository showcases two integral projects designed to enhance the digital ecosystem of **SGBIT**:
 
 1. **SGBIT College Website**: A dynamic and feature-rich platform providing essential information for students, faculty, and visitors.
 2. **ERP Portal**: A robust and streamlined enterprise resource planning system aimed at improving administrative and academic workflows.
