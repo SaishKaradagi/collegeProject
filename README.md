@@ -86,3 +86,25 @@ For questions, feedback, or inquiries regarding this repository, feel free to re
 - **Name**: Sangamesh Karadagi
 - **Email**: saish.v.karadagi@gmail.com
 
+## Future Plans
+
+While the current version of the **SGBIT College Projects** provides comprehensive functionality, several exciting improvements and features are planned for the future. These include:
+
+- **ERP Portal Enhancements**:
+    - Integration with external educational tools and systems.
+    - Mobile application support for seamless access on the go.
+    - Advanced analytics and reporting for staff and administrative users.
+  
+- **College Website Upgrades**:
+    - Improved event management system with automatic notifications.
+    - Integration with a student portal for more personalized access to academic data.
+    - Enhanced accessibility features for better inclusivity.
+  
+- **General Improvements**:
+    - Continuous performance optimization for both frontend and backend.
+    - Regular updates for security and privacy compliance.
+    - Incorporation of AI/ML for personalized user experiences and smarter academic recommendations.
+
+These improvements will ensure that the projects remain relevant and continue to meet the evolving needs of the SGBIT community.
+
+
