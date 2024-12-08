@@ -1,61 +1,45 @@
 # ERP Portal for SGBIT  
 
-A College-Based Data Management System designed to streamline administrative and academic operations.  
-
-## Features  
-
-### Roles  
-There are two types of roles in the system: **Staff** (Teachers, HOD) and **Students**.  
-
-#### **Login Details**  
-_Please be kind while using these credentials for testing._  
-
-- **Teacher [Staff]**  
-  - **Username**: Delphine  
-  - **Password**: Delphine123  
-
-  Teachers can:  
-  - Add or edit Notes  
-  - Record Attendance  
-  - Update Internal Marks  
-  - Manage Time Schedules  
-
-- **HOD (Head of Department) [Staff]**  
-  - **Username**: Moriah  
-  - **Password**: Moriah123  
-
-  HODs can:  
-  - Perform all Teacher functions  
-  - Approve new Teachers  
-  - Add new Papers  
-
-- **Student**  
-  - **Username**: Bret  
-  - **Password**: Bret  
-
-  _Alternatively, students can register and log in using their first names._  
-
-  Students can:  
-  - View Notes, Attendance, and Internal Marks  
-  - Join or leave a Paper (Subject)  
-
-_Note: Attendance and Marks must be added by the Teacher before they are visible to the Student._  
+## Project Overview  
+The **ERP Portal** is a comprehensive data management system tailored for academic institutions. It simplifies administrative tasks and enhances the learning experience by providing role-based access to Teachers, HODs, and Students. The portal supports essential academic workflows such as managing attendance, internal marks, notes, and time schedules.  
 
 ---
 
-## Tech Stack  
+## Key Features  
 
-- **Client**: React, TailwindCSS  
-- **Server**: Node.js, Express.js  
-- **Database**: MongoDB, Mongoose  
+- **Teacher Role**:  
+  - Add and manage Notes, Attendance, Internal Marks, and Time Schedules.  
+
+- **HOD Role**:  
+  - Includes all Teacher features.  
+  - Approve new Teachers and add new Papers (Subjects).  
+
+- **Student Role**:  
+  - View Notes, Attendance, and Internal Marks.  
+  - Enroll or withdraw from Papers (Subjects).  
 
 ---
 
-## Other Features  
+## Technology Stack  
 
-- User Profiles  
-- Dark Theme Support  
-- Mobile Responsive Design  
+- **Frontend**: React, TailwindCSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+
+---
+
+## Purpose  
+
+This project showcases my ability to design and implement a full-stack web application, demonstrating skills in front-end development, back-end API design, and database management.  
+
+---
+
+## Contact  
+
+If you have any questions or would like to discuss this project further, feel free to reach out:  
+- **Name**: Sangamesh Veerabhadrayya Karadagi  
+- **Email**: [saish.v.karadagi@gmail.com](mailto:saish.v.karadagi@gmail.com)  
+
 
 
 
