@@ -37,5 +37,5 @@ This project showcases my ability to develop a fully functional and visually app
 ## Contact  
 
 If you have any questions or would like to discuss this project further, feel free to reach out:  
-- **Name**: Sangamesh Veerabhadrayya Karadagi  
+- **Name**: Sangamesh Karadagi  
 - **Email**: [saish.v.karadagi@gmail.com](mailto:saish.v.karadagi@gmail.com)  
