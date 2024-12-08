@@ -37,7 +37,7 @@ This project showcases my ability to design and implement a full-stack web appli
 ## Contact  
 
 If you have any questions or would like to discuss this project further, feel free to reach out:  
-- **Name**: Sangamesh Veerabhadrayya Karadagi  
+- **Name**: Sangamesh Karadagi  
 - **Email**: [saish.v.karadagi@gmail.com](mailto:saish.v.karadagi@gmail.com)  
 
 
